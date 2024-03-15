@@ -20,7 +20,7 @@ https://github.com/MayaIvimey/logs/blob/main/DashboardW9.md
 - Group meeting 1.5 hr
   - Discussed different Solutions
 - Looked into Field Maps
-1 hr 
+1.5 hr 
 https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
 
 ## March 15 2024
