@@ -26,3 +26,5 @@ https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
 ## March 15 2024
 - Meeting with Shawn
 15 minutes
+- Explored different configurations and diplay options on Dashboard
+1.5 hr
