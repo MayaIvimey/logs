@@ -16,6 +16,9 @@ Time - 1 hr
 - <img width="946" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/dc321794-d3ad-470a-b7fa-0488e1d11711">
 - Added an indicator to the dashboard
 - <img width="859" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/c026de3b-2530-4698-8b82-92a1ef48be87">
+- Created a Gauge by adding new element and selecting "Gauge"
+- looked at how to query data to diplay only a certain group, in this case where people were attacked
+- <img width="922" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/614c0a1e-5c0c-464e-aa07-98bc0c46b117">
 
 
 
