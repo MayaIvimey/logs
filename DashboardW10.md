@@ -13,6 +13,7 @@ Time - 45 minutes
 - Did not work, but attempted to see if I could return the most recent set of features
 - <img width="490" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/57c2802b-4474-40e2-a58a-ea5862312f7a">
 - used https://github.com/Esri/arcade-expressions/blob/master/dashboard_data/MostRecentRecords(IndicatorOrGuage).md as a template
+- This cojuld be used to filter out certain data that is less important, and even sort data to show if something has been left for a long time or if it is urgent
 ## Added new Elements to the Dashboard
 Time - 45 minutes
 - Clicked "Add Element", selected indictors 
@@ -23,8 +24,10 @@ Time - 45 minutes
 - Created a Gauge by adding new element and selecting "Gauge"
 - looked at how to query data to diplay only a certain group, in this case where people were attacked
 - <img width="922" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/614c0a1e-5c0c-464e-aa07-98bc0c46b117">
-- next steps, try to configure a mobile view with just the necessary information
-- also try to understand the JavaScript for the data expressions
+
+- Elements such as indicators could be useful to SAWC to show if a situation is becoming critical, can look into adding thresholds to show that there are a larger than normal amount of issues   
+- Next steps, try to configure a mobile view with just the necessary information
+- Also try to understand the JavaScript for the data expressions
 
 
 
