@@ -27,8 +27,17 @@ Time - 30 minutes
 - Downloaded App
 - Signed in with Fleming username and password
 - "Completed" task to understand how staff would use the app
-![image](https://github.com/MayaIvimey/logs/assets/146374490/6c95e9b8-6e80-4cef-8c3b-434600da6e60)
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/6c95e9b8-6e80-4cef-8c3b-434600da6e60)
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/5735fcc6-da27-4b47-b475-509aa59c81e9)
+- looked at ArcGIS Online to see how the interface changed
+- <img width="640" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/0d56cda1-ae2b-420a-bc29-84b2203c8756">
+- repeated this with other tasks with different levels of priority
+
+## Step 4 - Attempted to see if this could be further used in Field Maps
+Time- 15 minutes
+- Would not show up in field maps despite the configuration settings
+- Went back and forth changing settings.
+- Will work on this more next week  
 
 
 
