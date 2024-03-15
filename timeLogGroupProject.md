@@ -24,3 +24,6 @@ Looked into Field Maps
 1 hr 
 https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
 
+## March 15 2024
+Meeting with Shawn
+15 minutes
