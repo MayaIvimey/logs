@@ -8,7 +8,7 @@ Time - 30 minutes
 - <img width="446" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/ffb7e34d-2ec5-4a5d-a1ae-62f0ab3384f3">
 
 ## Played around in Field Maps
-Time- 30 minutes
+Time- 1hr 
 - Scanned the QR code
 - Went to the Field Maps Mobile App
 - Added a few points
