@@ -17,9 +17,8 @@ https://github.com/MayaIvimey/logs/blob/main/DashboardW9.md
 ## March 13 2024
 - Advisor Meeting
 1 hr
-- Group meeting
-- - Discussed different Solutions
-1.5 hr
+- Group meeting 1.5 hr
+  - Discussed different Solutions
 - Looked into Field Maps
 1 hr 
 https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
