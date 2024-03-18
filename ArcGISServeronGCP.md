@@ -2,10 +2,10 @@
 ## Learned how to creat a virtual machine in Google Cloud with the provided image
 Time: 1.5 hours
 - created a new project in Google Cloud Platform => NEW PROJECT => named it "My First Project"
-<img width="375" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/63c6de76-50c9-419e-b160-77958afd2a79">
+- <img width="375" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/63c6de76-50c9-419e-b160-77958afd2a79">
 - Installed Computer Engine API
 - created instance called arcgisservermivimey
-- <img width="414" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/b55de7d2-9edd-409a-9ee4-      303a5807f4ba">
+- <img width="414" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/b55de7d2-9edd-409a-9ee4-303a5807f4ba">
 - changes boot disk to be the custom geom99 images
 - allowed both http and https traffic
 - <img width="206" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/8a7707d5-28a5-4cff-aab6-9dfcce64550e">
