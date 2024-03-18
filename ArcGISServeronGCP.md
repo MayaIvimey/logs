@@ -35,6 +35,7 @@ Time- 15 minutes
 used https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm as a resource
 
 ## Publishing Canada Map on Server
+Time - 30 minutes
 - opened a project in ArcGIS Pro
 - clicked "Add Connection"
 - Added a new server with the external IP address making sure to use port 6443
