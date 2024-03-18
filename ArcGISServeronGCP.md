@@ -21,7 +21,7 @@ Time: 1.5 hours
 - Set the IP range to my home IP address and the TCP Ports to 6443 and 6080
 - my home IP address made the website load faster
 - <img width="437" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/e7c8beb5-ac3f-4968-885f-7446d8d501a2">
-<img width="416" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/586eefed-9000-46fe-a40b-d81609f0a5f1">
+- <img width="416" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/586eefed-9000-46fe-a40b-d81609f0a5f1">
 - Set up the windows password with the username student and kept my password on notepad
 
 ## Created ArcGIS Online Layer
