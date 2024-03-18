@@ -35,6 +35,15 @@ Time- 15 minutes
 used https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm as a resource
 
 ## Publishing Canada Map on Server
+- opened a project in ArcGIS Pro
+- clicked "Add Connection"
+- Added a new server with the external IP address making sure to use port 6443
+- <img width="939" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/f2b02571-4639-4829-a45d-125bc4da2608">
+- Published the data, being sure to register the data in the data store
+- <img width="504" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/431735c8-b4c4-47b6-afa7-624ea296e814">
+- Published the Canada Map in ArcGIS Pro, making sure to validate the map in the data store
+- <img width="689" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/73db427b-44b1-4446-8366-5e06a87d173a">
+
 
 
 
