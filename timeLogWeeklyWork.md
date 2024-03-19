@@ -14,5 +14,5 @@ https://fleming.maps.arcgis.com/home/item.html?id=f464cd89ceae48dca741640a9a82f1
 
 Research for Solution and workforce 30 minutes
 ## Week 10
-Readings 1 hr
-
+ Readings 1 hr
+ Published the Canada Maps 30 minutes
