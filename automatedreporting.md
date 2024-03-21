@@ -1,16 +1,16 @@
 # Try to find out how to automate reporting
 ## Created A Survey123
-Time - 15 Minutes
+Time - 10 Minutes
 - Created and published a test Survey123 to report information
 - <img width="918" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/2d1f0543-b6ef-4bf1-86cc-827762589756">
 - Created a test Web Map to show the information
 - <img width="956" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/373dc79b-4a8c-4c41-a2bf-ff5ffa04f3a1">
 ## Add Points to Survey 123
-Time - 15 Minutes
+Time - 10 Minutes
 - Added test points to report on
 - <img width="765" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/f509295e-de7e-4268-9248-051e6ab8a861">
 ## Looked Into Different Ways to Automate Sending Responses
-Time - 30 minutes
+Time - 40 minutes
 - Could not find a way to automatically report through ArcGIS Online
 - Found an ESRI Blog post that used Microsoft Power Automate
 - Signed in using my Fleming email.
