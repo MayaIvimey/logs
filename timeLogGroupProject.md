@@ -28,3 +28,10 @@ https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
 15 minutes
 - Explored different configurations and display options on Dashboard
 1.5 hr
+# Week 11
+## March 20 2024
+- Advisor meeting 1 hr
+- Meeting with group 1.5 hr
+## March 21 2024
+- discover a way to automate reporting
+https://github.com/MayaIvimey/logs/blob/main/automatedreporting.md
