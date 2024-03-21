@@ -33,5 +33,5 @@ https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
 - Advisor meeting 1 hr
 - Meeting with group 1.5 hr
 ## March 21 2024
-- discover a way to automate reporting
+- Discover a way to automate reporting 1hr
 https://github.com/MayaIvimey/logs/blob/main/automatedreporting.md
