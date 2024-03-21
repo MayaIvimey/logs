@@ -27,3 +27,36 @@ Time - 35 minutes
 - Also an option to create a report
 <img width="788" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/1c250c5f-e651-46b8-9bb8-b4c9b770f243">
 - Blog Post: https://community.esri.com/t5/arcgis-survey123-videos/survey123-create-report-action-in-microsoft-power/td-p/1253057
+
+## Create a mock reporting flow
+Time- 30 minutes
+- Create a scheduled flow
+- This time the flow was manual not a template
+- <img width="843" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/f85a52ce-91fa-4eb0-bcf6-e2090880fb6a">
+- This adds a recurrence to the flow
+-<img width="816" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/d8d8abd1-1710-4189-ba41-e342cfab84ac">
+- Add an action
+- <img width="188" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/3de0778d-f19b-4552-98c0-4da0e489f418">
+- Searched for Survey 123
+- <img width="308" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/a58747f7-6356-4190-b8b5-4726086ccaa4">
+- Selected Create report
+- Had to go into the data section of Survey123 to create a report template
+- <img width="434" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/4d9e135c-e8cc-46dd-8beb-7ee99f3ecd93">
+- Filled in the require information
+- <img width="383" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/364ca3f2-2280-4b68-8e91-097d9c2ed534">
+- inserted another action
+- <img width="281" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/0a02796f-22ee-41ed-a69b-12e031e327e8">
+- Selected Office 365 Outlook
+- <img width="304" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/dd6db66a-70f3-4f64-bc02-21f73efe558c">
+- Selected Send an email
+- <img width="293" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/d7ca9c4e-fef9-4e5d-8412-05d44fd34512">
+- Added the url as an attachement
+- <img width="305" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/c7511bb3-66e3-4b12-a1ec-8055885f4305">
+- Did a test run, ran into an issue
+- <img width="779" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/d9d408a8-9628-40db-a204-9c26df42ef1a">
+
+
+
+
+
+
