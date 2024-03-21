@@ -35,3 +35,5 @@ https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
 ## March 21 2024
 - Discover a way to automate reporting 1hr
 https://github.com/MayaIvimey/logs/blob/main/automatedreporting.md
+- Looked into a mobile view for Dashboard 30 minutes
+https://github.com/MayaIvimey/logs/blob/main/CreateMobileView.md
