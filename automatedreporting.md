@@ -29,7 +29,7 @@ Time - 35 minutes
 - Blog Post: https://community.esri.com/t5/arcgis-survey123-videos/survey123-create-report-action-in-microsoft-power/td-p/1253057
 
 ## Create a mock reporting flow
-Time- 45 minutes
+Time- 1 hr
 - Create a scheduled flow
 - This time the flow was manual not a template
 - <img width="843" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/f85a52ce-91fa-4eb0-bcf6-e2090880fb6a">
@@ -67,7 +67,16 @@ Time- 45 minutes
 -  <img width="761" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/917f908d-7ab3-4986-b351-27b562e2108e">
 - Still did not work
 - <img width="866" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/824669f1-1c35-49b1-af7e-fcdfc0dc565f">
-- Need to do more research into power automate
+- Did some research and realized that I needed to add a feature object id to the create report action
+- <img width="560" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/99eee41c-ee5b-4e23-be9b-2e2b7499be0d">
+- managed to get it to run, sent an email and uploaded to OneDrive
+- <img width="955" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/dab68eec-eec2-4e1f-b6e3-a2e7d648ed75">
+
+## Next Steps
+- Implement a time trigger rather than adding a new feature
+- create a report template that has statistics that would be useful
+- inlcude the file in the email
+
 
 
 
