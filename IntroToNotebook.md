@@ -1,6 +1,8 @@
-# Explored other options for automation in ArcGIS Online
-## Introduced myself to Notebooks
-Time- 15 minutes
+# Introduced myself to Notebooks
+Resources
+- https://developers.arcgis.com/python/api-reference/arcgis.apps.survey123.html#arcgis.apps.survey123.SurveyManager
+- https://github.com/Esri/Survey123-tools/blob/main/Work_with_Reports/create_reports_using_the_arcgis_api_for_python.ipynb
+Time- 30 minutes
 - Opened the Administration - Deploy Automatic Notifications notebook from the ESRI Sample Notebooks
 - <img width="671" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/fa77510b-de04-4f1c-85a8-d93365282be3">
 - Clicked Schedule a notebook task - ArcGIS Online
@@ -16,6 +18,10 @@ Time- 15 minutes
 - <img width="445" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/0fb09108-01ef-4533-954e-482f4626299f">
 - This added a way to cause the reporting to reoccur
 - <img width="251" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/994bb22d-2ef1-4aca-8b08-dfda7835b85c">
+- Played around with different code
+- https://github.com/Esri/Survey123-tools/blob/main/Work_with_Reports/create_reports_using_the_arcgis_api_for_python.ipynb
+- managed to run something
+- <img width="562" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/f3dfdbf2-75d4-48b0-8726-4972d26ed11b">
 
 
 
