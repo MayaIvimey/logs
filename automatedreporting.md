@@ -29,7 +29,7 @@ Time - 35 minutes
 - Blog Post: https://community.esri.com/t5/arcgis-survey123-videos/survey123-create-report-action-in-microsoft-power/td-p/1253057
 
 ## Create a mock reporting flow
-Time- 30 minutes
+Time- 45 minutes
 - Create a scheduled flow
 - This time the flow was manual not a template
 - <img width="843" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/f85a52ce-91fa-4eb0-bcf6-e2090880fb6a">
@@ -60,6 +60,15 @@ Time- 30 minutes
 -took out the attachnments of the email and tried again
 -worked this time, need a new way to attach the reports
 - <img width="934" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/ff8aa715-5d6c-4411-bf2f-af6b60791a5e">
+- Added upload file from url
+- <img width="761" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/5a98f9f2-3414-4dba-872a-44c90251e5f4">
+-  did not work
+-  Tried changing the trigger
+-  <img width="761" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/917f908d-7ab3-4986-b351-27b562e2108e">
+- Still did not work
+- <img width="866" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/824669f1-1c35-49b1-af7e-fcdfc0dc565f">
+- Need to do more research into power automate
+
 
 
 
