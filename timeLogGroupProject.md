@@ -37,5 +37,6 @@ https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
 https://github.com/MayaIvimey/logs/blob/main/automatedreporting.md
 - Looked into a mobile view for Dashboard 30 minutes
 https://github.com/MayaIvimey/logs/blob/main/CreateMobileView.md
+## March 22 2024
 - Looked into ArcGIS Notebooks 30 minutes
 https://github.com/MayaIvimey/logs/blob/main/IntroToNotebook.md
