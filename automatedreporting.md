@@ -54,6 +54,14 @@ Time- 30 minutes
 - <img width="305" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/c7511bb3-66e3-4b12-a1ec-8055885f4305">
 - Did a test run, ran into an issue
 - <img width="779" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/d9d408a8-9628-40db-a204-9c26df42ef1a">
+- Realized the date for the name didn't work, took it out and tried again
+- Ran a bad request
+- <img width="949" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/1bba7c4f-6b28-4bc8-859a-2872502345e2">
+-took out the attachnments of the email and tried again
+-worked this time, need a new way to attach the reports
+- <img width="934" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/ff8aa715-5d6c-4411-bf2f-af6b60791a5e">
+
+
 
 
 
