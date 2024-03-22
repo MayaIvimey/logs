@@ -19,5 +19,4 @@ Readings
 Published the Canada Maps
 - time: 30 minutes
 ## Week 11
-Find a way to automate reporting
- - time: 1 hour
+
