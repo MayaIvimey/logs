@@ -40,3 +40,7 @@ https://github.com/MayaIvimey/logs/blob/main/CreateMobileView.md
 ## March 22 2024
 - Looked into ArcGIS Notebooks 30 minutes
 https://github.com/MayaIvimey/logs/blob/main/IntroToNotebook.md
+
+## March 28 2024
+- Completed ESRI's Tutorila on Notebook basics 1 hr
+- https://github.com/MayaIvimey/logs/blob/main/NotebookTutorial.md
