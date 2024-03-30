@@ -26,5 +26,12 @@ Time 1 hour
 - Tried creating it as an html then converting 
 - Had to add an extra create file to add the file to my one drive
 - <img width="370" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/b96b3bfa-2dd0-406a-9467-1caf8bc6da6c">
-- The PDF needs formatting, which is the next step
+- Formatted the PDF with some HTML
+- <img width="295" alt="image" src="https://github.com/MayaIvimey/logs/assets/146374490/b13f3c12-10c6-451a-8c44-143c93d13675">
+
+## Next Steps
+- Better format
+- Add more content to create a full report
+- add dynamic content
+- send this out in an email
 
