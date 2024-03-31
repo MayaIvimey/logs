@@ -44,5 +44,8 @@ https://github.com/MayaIvimey/logs/blob/main/IntroToNotebook.md
 ## March 28 2024
 - Completed ESRI's Tutorila on Notebook basics 1 hr
 - https://github.com/MayaIvimey/logs/blob/main/NotebookTutorial.md
-- Attempted to create a automated workflow in Power Automate
+- Attempted to create a automated workflow in Power Automate 2 hr
 - https://github.com/MayaIvimey/logs/blob/main/ReportingWorkflow.md
+## March 29 2024
+- Created a better flow in Power Automate 1 hr
+- https://github.com/MayaIvimey/logs/blob/main/ReportingWorkflowPt2.md
