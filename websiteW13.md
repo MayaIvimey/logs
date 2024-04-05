@@ -1,6 +1,6 @@
 # Work on the website in week 12
 ## Implement accordions for methods using JavaScript
-Time: 1.5 hour
+Time: 1.75 hour
 - Took JavaScript from https://github.com/matthewdematos/a3web/blob/main/JavaScript/Scripts.js
 - took the expanding buttons JavaScript to create accordions that drop down with each step
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/0023b25f-9eb7-47a1-ba18-e0d825a47aa5)
@@ -34,8 +34,15 @@ Time: 1.5 hour
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/f080d960-1717-40f1-80f1-159b1a6dc4cf)
 - caused the opposite issue
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/7405a2c2-ef17-4ebb-bee8-f1af0b1b8655)
-- Tried changing the code again
+- Tried changing the code again, did not work
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/877a6bbf-4a6f-4195-9f40-3609b0c13cf4)
+- Decided to take out the icons for now
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/e8eaf250-99ab-4d46-98f9-2bc8f6a9aa69)
+- Committed the css to the group Github
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/3d80f5fe-e764-4f62-a9ab-97d04a09c235)
+- also committed the JavaScript, and the integrated methods page
+- JavaScript did not work
+- Turned out I just had to put it into an incognito window
 
 
 
