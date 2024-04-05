@@ -55,7 +55,9 @@ Total Work Time: 4 hour
 - https://github.com/MayaIvimey/logs/blob/main/ReportingWorkflowPt2.md
 
 # Week 13
-Total Work Time: 1.75 hour
+Total Work Time: 2.25 hour
 ## April 4 2024
-- Created buttons in the group website for the methodology 1.75 hours
+- Created buttons in the group website for the methodology: 1.75 hours
 - https://github.com/MayaIvimey/logs/blob/main/websiteW13.md
+- Played around with Make Software: 30 minutes
+- https://github.com/MayaIvimey/logs/blob/main/make.md
