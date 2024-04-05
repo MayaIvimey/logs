@@ -1,4 +1,5 @@
 # Week 9
+Total Work Time: 3 hour
 ## March 6th, 2024
 Advisor Meeting
 1hr
@@ -14,6 +15,7 @@ https://github.com/MayaIvimey/logs/blob/main/WorkforceW9.md
 1 hr
 https://github.com/MayaIvimey/logs/blob/main/DashboardW9.md
 # Week 10
+Total Work Time: 3 hour
 ## March 13 2024
 - Advisor Meeting
 1 hr
@@ -29,6 +31,7 @@ https://github.com/MayaIvimey/logs/blob/main/FieldmapsW10.md
 - Explored different configurations and display options on Dashboard
 1.5 hr
 # Week 11
+Total Work Time: 3 hour
 ## March 20 2024
 - Advisor meeting 1 hr
 - Meeting with group 1.5 hr
@@ -41,6 +44,7 @@ https://github.com/MayaIvimey/logs/blob/main/CreateMobileView.md
 - Looked into ArcGIS Notebooks 30 minutes
 https://github.com/MayaIvimey/logs/blob/main/IntroToNotebook.md
 # Week 12
+Total Work Time: 4 hour
 ## March 28 2024
 - Completed ESRI's Tutorila on Notebook basics 1 hr
 - https://github.com/MayaIvimey/logs/blob/main/NotebookTutorial.md
@@ -49,3 +53,9 @@ https://github.com/MayaIvimey/logs/blob/main/IntroToNotebook.md
 ## March 29 2024
 - Created a better flow in Power Automate 1 hr
 - https://github.com/MayaIvimey/logs/blob/main/ReportingWorkflowPt2.md
+
+# Week 13
+Total Work Time: 1.75 hour
+## April 4 2024
+- Created buttons in the group website for the methodology 1.75 hours
+- https://github.com/MayaIvimey/logs/blob/main/websiteW13.md
