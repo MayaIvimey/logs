@@ -1,4 +1,4 @@
-# Work on the website in week 12
+# Work on the website in week 13
 ## Implement accordions for methods using JavaScript
 Time: 1.75 hour
 - Took JavaScript from https://github.com/matthewdematos/a3web/blob/main/JavaScript/Scripts.js
