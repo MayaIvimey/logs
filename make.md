@@ -1,4 +1,5 @@
 # Playing with Make Software
+Time: 30 minutes
 ## Create a template in Make that is similar to the one in Power Automate to see if there are any advantages
 - Created a new scenario
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/c3a4af6b-659f-4788-9214-d66a68f55f55)
