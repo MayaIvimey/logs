@@ -43,6 +43,12 @@ Time: 1.75 hour
 - also committed the JavaScript, and the integrated methods page
 - JavaScript did not work
 - Turned out I just had to put it into an incognito window
+- put the same two buttons into the AGOl methodology html document in GitHub
+- now the group has two buttons that they can place text into. They can copy the code if they would like any more buttons
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/221d0598-0f45-4dd2-b1f0-d65bb6699a4e)
+
+## Next Steps
+- Figure out how to add the plus and minus sign without it messing up the nav bar
 
 
 
