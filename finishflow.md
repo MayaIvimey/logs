@@ -53,5 +53,5 @@ Time: 30 minutes
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/9e13af08-c42a-4f9f-b5d4-1b4bd7c0be6a)
 
 ## Next Steps
-- This is enough for a model, but would have to find a way to dynamically link the to the flow that creates the actual excel sheet
+- This is enough for a model, but would have to find a way to only include the entries in the current month
 
