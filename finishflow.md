@@ -1,4 +1,5 @@
 # Finished the Microsoft Power Automate 
+Time: 1.25 hours
 ## Add in email
 Time 45 minutes
 - Added an action
@@ -33,7 +34,7 @@ Time 45 minutes
   - Try to see if adding some dynamic content would work
  
 ## Adding dynamic content
-
+Time: 30 minutes
 - Wanted to see if I could add dynamic content that would add the date to the name of the file instead of just overwriting the previous file
 - Tried putting the date into the name of the first file
 - created the HTML but not pdf
@@ -43,6 +44,14 @@ Time 45 minutes
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/fd6caf9c-ffb3-4d12-a80f-0aa70cf8911f)
 - did not like that
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/265879cd-a93d-4a26-b097-3582c038904b)
-- Tried putting in the name of the previous create file
-- ![image](https://github.com/MayaIvimey/logs/assets/146374490/29315331-366e-4633-baef-d573326da34f)
+- Tried putting in the path
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/a1c36af6-72ca-44f9-9802-d6eb98d9bcd1)
+- ran but the pdf link did not work
+- put the file name into the link
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/980384e6-e1d5-4836-a9f3-8292bc4e6b1a)
+- The link worked
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/9e13af08-c42a-4f9f-b5d4-1b4bd7c0be6a)
+
+## Next Steps
+- This is enough for a model, but would have to find a way to dynamically link the to the flow that creates the actual excel sheet
 
