@@ -61,3 +61,9 @@ Total Work Time: 2.25 hour
 - https://github.com/MayaIvimey/logs/blob/main/websiteW13.md
 - Played around with Make Software: 30 minutes
 - https://github.com/MayaIvimey/logs/blob/main/make.md
+
+# Week 14
+## April 7th, 2024
+- Finished Microsoft Power Automate model 1.25 hours
+- https://github.com/MayaIvimey/logs/blob/main/finishflow.md
+- 
