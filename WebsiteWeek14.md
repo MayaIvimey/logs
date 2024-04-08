@@ -46,6 +46,12 @@ Time: 1.25 hour
 - Wanted to add more responsive design, the current one did not work
 - More made height and width auto to see what that would do
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/340545cf-ef66-4220-a2f6-f8d37c8a82dc)
+- Decided to increase the max with
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/63186bb4-cf02-44a0-9061-254ae5fdfc36)
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/95375263-90c8-4826-a9c6-8140030f536e)
+- 1000 worked the best
+## Next Steps
+- put in descriptions, get the team to do their own
 
 
 
