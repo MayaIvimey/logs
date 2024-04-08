@@ -1,7 +1,7 @@
 # Adding Content to the Website
-Time: 1 hour
+Time: 1.25 hour
 ## Creating the meet the team page
-Time: 1 hour
+Time: 1.25 hour
 - upload photos
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/4f129346-8dc5-4ffe-8f63-b743a44b9a46)
 - add header
@@ -43,6 +43,9 @@ Time: 1 hour
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/29b9f781-7407-45eb-b50b-e36295f104a7)
 - That worked
 - ![image](https://github.com/MayaIvimey/logs/assets/146374490/5c060dba-3d13-4cf5-a7bc-1bdb84198700)
+- Wanted to add more responsive design, the current one did not work
+- More made height and width auto to see what that would do
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/340545cf-ef66-4220-a2f6-f8d37c8a82dc)
 
 
 
