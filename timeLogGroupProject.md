@@ -66,4 +66,6 @@ Total Work Time: 2.25 hour
 ## April 7th, 2024
 - Finished Microsoft Power Automate model 1.25 hours
 - https://github.com/MayaIvimey/logs/blob/main/finishflow.md
-- 
+## April 8th 2024
+- created the meet the teams page 1.25 hours
+- https://github.com/MayaIvimey/logs/blob/main/WebsiteWeek14.md
