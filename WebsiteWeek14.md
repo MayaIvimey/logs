@@ -53,5 +53,18 @@ Time: 1.25 hour
 ## Next Steps
 - put in descriptions, get the team to do their own
 
+## Placed the Microsoft Flow Screenshots into the Website
+Time- 30 minutes
+- Uploaded the picture of the overall screenshot to GitHub
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/8bbd85e6-adc3-41e7-b7e2-a0b3100cd3b9)
+- Put the classes from css into the website with the descriptions
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/c9492cfb-48af-48b8-8937-f07ad654a035)
+- Realized I linked the images wrong so I corrected that
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/d43e196b-9ee4-4216-b81b-d02b58e41da5)
+- Tried to create an ordered list to explain steps
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/3d47036d-22b9-4990-aead-f229088650c7)
+- The rest of the information is placed in the list
+- ![image](https://github.com/MayaIvimey/logs/assets/146374490/788b8df1-f68d-4660-9840-8f826d1b0e33)
+
 
 
