@@ -63,7 +63,7 @@ Total Work Time: 2.25 hour
 - https://github.com/MayaIvimey/logs/blob/main/make.md
 
 # Week 14
-Time 3 hr
+Time 3.75 hr 
 ## April 7th, 2024
 - Finished Microsoft Power Automate model 1.25 hours
 - https://github.com/MayaIvimey/logs/blob/main/finishflow.md
@@ -73,3 +73,6 @@ Time 3 hr
 ## April 9, 2024
 - Put in screenshot and description of the reporting flow into the website 30 minutes
 - https://github.com/MayaIvimey/logs/blob/main/WebsiteWeek14.md#flow
+## April 10, 2024
+- Created a an option in the Power Automate Flow to only count what is within a certain timespan 45 minutes
+- https://github.com/MayaIvimey/logs/blob/main/addDateToFlow.md
